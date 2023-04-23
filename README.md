@@ -5,3 +5,7 @@
 In this small project we are going to solve portfolio selection problem using parametric simplex method.
 
 If you want to test this jupyter notebook, make sure that you downloaded data along with source code .ipynb and changed path to data at the beginning of the notebook.
+
+Content of repo:
+* ***Financial data - Sheet1.csv*** - data
+* ***LP_Financial_Application.ipynb*** - source code
